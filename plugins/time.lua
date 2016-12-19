@@ -8,7 +8,7 @@ end
 return {
   patterns = {
   "^time",
-  "^[/!]([Tt][iI][Mm][Ee])$" 
+  "^ساعت)$" 
   }, 
 run = run 
 }
